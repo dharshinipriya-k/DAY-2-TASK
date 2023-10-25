@@ -1,0 +1,1 @@
+This repository contains the task of Day 02 (Difference between Window and Document objects)

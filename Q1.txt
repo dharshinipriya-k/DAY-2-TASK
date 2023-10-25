@@ -1,0 +1,30 @@
+
+DIFFERENCE BETWEEN WINDOW AND DOCUMENT OBJECTS:
+
+WINDOW:
+
+** The window is at a root/top level at the Javascript object hierarchy.
+
+** The first thing that gets loaded into the browser is window.
+
+** It is an object of the browser.
+
+** Properties related to it are stored in window object.
+
+** Properties of the document object can be accessed inside the window.
+
+
+
+DOCUMENT:
+
+** A document is an object inside the window object and can be used for manipulation
+inside the document.
+
+** After the window is loaded, there is a document(either HTML or any other document) 
+loaded inside that window.
+
+** It is an object of the window.
+
+** Properties related to it are stored in document object.
+
+** Properties of the window objects can not be accessed inside document.
